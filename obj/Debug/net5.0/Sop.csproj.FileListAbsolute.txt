@@ -1,0 +1,16 @@
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.exe
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.deps.json
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.runtimeconfig.json
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.runtimeconfig.dev.json
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.dll
+C:\Users\norms\source\repos\ConsoleApp1\bin\Debug\net5.0\Sop.pdb
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.csproj.AssemblyReference.cache
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.AssemblyInfoInputs.cache
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.AssemblyInfo.cs
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.csproj.CoreCompileInputs.cache
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.dll
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\refint\Sop.dll
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.pdb
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\Sop.genruntimeconfig.cache
+C:\Users\norms\source\repos\ConsoleApp1\obj\Debug\net5.0\ref\Sop.dll
