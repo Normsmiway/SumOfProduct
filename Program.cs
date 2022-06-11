@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -37,15 +36,14 @@ namespace ConsoleApp1
         private static int PrintProduct(string x, string y)
         {
             (x, y) = x.Length > y.Length ? (x, y) : (y, x);
-            var yrr = new int[x.Length];
-
+            int diff = 0, sum = 0;
             for (int i = 0; i < x.Length; i++)
             {
                 int divisor = Convert.ToInt32(Math.Pow(10, i + 1));
-                int remainder = (int.Parse(x) % divisor) - yrr.Sum();
-                yrr[i] = remainder;
+                int remainder = (int.Parse(x) % divisor) - diff;
+                diff += remainder;
+                sum += remainder * int.Parse(y);
             }
-            int sum = yrr.Sum(c => c * int.Parse(y));
             return sum;
         }
     }
